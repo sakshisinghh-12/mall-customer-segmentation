@@ -17,33 +17,33 @@ This project applies K-Means clustering to segment mall customers based on Annua
 
 - Data Loading & Cleaning
 
-Imported dataset with Pandas
+   - Imported dataset with Pandas
 
-Checked data types, distributions, and missing values
+   - Checked data types, distributions, and missing values
 
 - Exploratory Data Analysis (EDA)
 
-Visualized distributions of income, spending, and age
+   - Visualized distributions of income, spending, and age
 
-Analyzed correlations between features
+   - Analyzed correlations between features
 
 - Feature Scaling
 
-Applied StandardScaler to normalize numerical features
+   - Applied StandardScaler to normalize numerical features
 
 - K-Means Clustering
 
-Ran clustering on multiple feature combinations (Income, Spending Score, Age)
+   - Ran clustering on multiple feature combinations (Income, Spending Score, Age)
 
-Used Elbow Method to determine optimal cluster count
+   - Used Elbow Method to determine optimal cluster count
 
 - Visualization & Insights
 
-Scatterplots of clusters (e.g., Income vs Spending Score)
+   - Scatterplots of clusters (e.g., Income vs Spending Score)
 
-Cluster centers visualized for interpretation
+   - Cluster centers visualized for interpretation
 
-Elbow curve plotted for cluster evaluation
+   - Elbow curve plotted for cluster evaluation
 
 # Results & Insights
 
